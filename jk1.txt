@@ -1,0 +1,4 @@
+Denne fil er oprettet lokalt på pc.
+Den er oprettet i den branch der hedder main.
+Jeg forsøger at pushe den til github med kommandoen.
+git push origin
