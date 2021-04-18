@@ -1,3 +1,11 @@
 Denne fil er oprette i sin egen branch b1.
 
 Hvordan får jeg den over i main branchen?
+jeg brugte følgende kommando:
+
+git push --set-upstream origin b1
+
+det bevirkede blot at opdateringen landede direkte på
+github.
+Denne filer er ikke kommet til lokal main branchen.
+
