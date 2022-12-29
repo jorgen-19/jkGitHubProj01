@@ -1,1 +1,2 @@
 Denne fil er blevet oprettet direkte i GitHub.
+Denne linie er tilføjet lokalt, og jeg ønsker at den skal på GitHub.
